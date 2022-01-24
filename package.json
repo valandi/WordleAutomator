@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-wordle",
+  "version": "1.0.0",
+  "description": "Wordle Automator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node Automation/WordleSolver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.1.1"
+  },
+  "type": "module"
+}
