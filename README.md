@@ -7,6 +7,7 @@ WordleAutomator is an application that automates a game of Wordle (https://www.p
 ```bash
 git clone https://github.com/valandi/WordleAutomator.git
 cd WordleAutomator/
+npm install
 npm start
 ```
 
