@@ -13,11 +13,7 @@ const config = {
     headless: false,
     
     // Word to start with. 
-    startingWord: "salet",
-
-    // Custom chrome executable path
-    chromePath: ""
-
+    startingWord: "salet"
 };
 
 export {config as default};

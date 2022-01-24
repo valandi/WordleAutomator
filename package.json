@@ -4,7 +4,7 @@
   "description": "Wordle Automator",
   "main": "index.js",
   "scripts": {
-    "test": "node Automation/WordleSolver.js"
+    "start": "node Automation/WordleSolver.js"
   },
   "author": "",
   "license": "ISC",
